@@ -1,4 +1,4 @@
-# Simple intrest Calculatop
+# Simple intrest Calculator
 
 print("Simple Intrest Calculater😊")
 
