@@ -1,4 +1,4 @@
-# Calculate percentage  change
+# Calculate percentage change
 
 x = float(input("Enter first number:::"))
 y = float(input("Enter final number:::"))
