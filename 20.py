@@ -1,0 +1,1 @@
+# Simplify: (x - y)² 
